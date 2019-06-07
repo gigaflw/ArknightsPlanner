@@ -1,0 +1,12 @@
+__pycache__/
+.DS_Store
+
+_pricing/
+reports/*
+memo/
+
+config.yaml
+server.py
+server_up.sh
+setup.py
+ztool.py
